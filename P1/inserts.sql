@@ -15,7 +15,8 @@ INSERT INTO P1_conductores (idConductor, nombreConductor, apellidoConductor) VAL
 (1, 'Carlos', 'González'),
 (2, 'Luis', 'Martínez'),
 (3, 'Alejandro', 'Gómez'),
-(4, 'Alberto', 'Parera');
+(4, 'Alberto', 'Parera'),
+(5, 'Jonny', 'Gonzalez');
 
 INSERT INTO P1_viajes (idVehiculo, idUsuario, idSitio, idDestino, costo, fecha, horaPartida, horaLlegada) VALUES
 (2, 3, 2, 2, 200.00, '2023-01-01', '09:00:00', '09:30:00'),
